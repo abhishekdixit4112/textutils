@@ -28,7 +28,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                         <div className="accordion-body" style={myStyle}>
-                            TextUtils Web Application gives wy to analyze your text quickly and efficiently.You can use it as text word counter or the character counter.
+                            TextUtils Web Application gives a way to analyze your text quickly and efficiently.You can use it as text word counter or the character counter.
                         </div>
                     </div>
                 </div>
